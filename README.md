@@ -1,4 +1,4 @@
-## Python Fundamental Notes
+## Python Fundamentals Note
 ### Table of Content
 
 1. Fundamentals
