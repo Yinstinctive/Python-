@@ -1,4 +1,4 @@
-## Python零基础学习笔记
+## Python Fundamental Notes
 ### Table of Content
 
 1. Fundamentals
