@@ -1,5 +1,5 @@
-## Python Bootcamp Note
-# Table of Content
+# Python Bootcamp Note
+## Table of Content
 
 1. Fundamentals
 2. List
