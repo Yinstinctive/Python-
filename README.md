@@ -18,4 +18,3 @@
 15. Web Scraping
 16. Regular Expressions
 17. Python + SQL
-18. Extra Notes
